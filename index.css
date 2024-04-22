@@ -1,0 +1,42 @@
+body{
+    background-color: powderblue;
+}
+h2{
+    color: rgb(37, 37, 37);
+    text-align: center;
+    margin-bottom: 100px;
+}
+p{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.center{
+    display: flex;
+}
+.img-me img{
+    border-radius: 100em;
+    width: 600px;
+}
+.img-me{
+    padding-right: 50px;
+    border-left:1px solid gray ;
+    padding-left: 30px;
+}
+.text{
+    text-align: center;
+    width: 40%;
+    padding-bottom: 40px;
+    color: black;
+}
+.nave-bar{
+  
+    background-color: gray;
+    height: 100px;
+    
+}
+.nave-bar li{
+    display: flex;
+    text-decoration: none;
+
+}
